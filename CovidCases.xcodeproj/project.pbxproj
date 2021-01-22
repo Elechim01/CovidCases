@@ -11,6 +11,7 @@
 		D1BD00EC25BA2ED90054C099 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BD00EB25BA2ED90054C099 /* ContentView.swift */; };
 		D1BD00EE25BA2ED90054C099 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1BD00ED25BA2ED90054C099 /* Assets.xcassets */; };
 		D1BD00F125BA2ED90054C099 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1BD00F025BA2ED90054C099 /* Preview Assets.xcassets */; };
+		D1BD00FA25BA2EF30054C099 /* Dati.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BD00F925BA2EF30054C099 /* Dati.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		D1BD00ED25BA2ED90054C099 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1BD00F025BA2ED90054C099 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D1BD00F225BA2ED90054C099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1BD00F925BA2EF30054C099 /* Dati.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dati.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D1BD00ED25BA2ED90054C099 /* Assets.xcassets */,
 				D1BD00F225BA2ED90054C099 /* Info.plist */,
 				D1BD00EF25BA2ED90054C099 /* Preview Content */,
+				D1BD00F925BA2EF30054C099 /* Dati.swift */,
 			);
 			path = CovidCases;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D1BD00EC25BA2ED90054C099 /* ContentView.swift in Sources */,
+				D1BD00FA25BA2EF30054C099 /* Dati.swift in Sources */,
 				D1BD00EA25BA2ED90054C099 /* CovidCasesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
